@@ -1,30 +1,39 @@
-# React + TypeScript + Vite
+# Bwitter Project (Working..)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+<img width="329" alt="image" src="https://github.com/BaileyChoi/React_EmotionDiary/assets/71368635/85de091d-79f6-48f9-955d-1515d370650f">
 
-Currently, two official plugins are available:
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 브위터 v1.0
 
-## Expanding the ESLint configuration
+> **Bailey's React Project** <br/> > **개발기간: 2024.03 ~**
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 배포 주소
 
-- Configure the top-level `parserOptions` property like this:
+> **Vercel** : Not yet!
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## 개발자
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+|                                                            Bailey Choi                                                            |
+| :-------------------------------------------------------------------------------------------------------------------------------: |
+| <img width="160px" src="https://github.com/BaileyChoi/React_EmotionDiary/assets/71368635/416faeb1-f028-4bd5-9678-e08551cba270" /> |
+|                                           [@BaileyChoi](https://github.com/BaileyChoi)                                            |
+
+---
+
+## Stacks 🐈
+
+### Environment
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
+### Development
+
+![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
