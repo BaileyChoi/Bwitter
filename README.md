@@ -1,17 +1,17 @@
-# Bwitter Project (Working..)
+# Bwitter Project
 
 <div align="center">
-<img width="329" alt="image" src="https://github.com/BaileyChoi/React_EmotionDiary/assets/71368635/85de091d-79f6-48f9-955d-1515d370650f">
+<img width="329" alt="image" src="https://github.com/BaileyChoi/React_EmotionDiary/assets/71368635/b4748455-0d20-49c2-b0f5-94a06ef9431b">
 
 </div>
 
 # 브위터 v1.0
 
-> **Bailey's React Project** <br/> > **개발기간: 2024.03 ~**
+> **Bailey's React Project** <br/> > **개발기간: 2024.03 ~ 2024.03**
 
 ## 배포 주소
 
-> **Vercel** : Not yet!
+> **Vercel** : [(https://bwitter-five.vercel.app/)](https://bwitter-five.vercel.app/)
 
 ## 개발자
 
