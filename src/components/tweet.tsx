@@ -84,7 +84,7 @@ const TextArea = styled.textarea`
 export default function Tweet({ username, photo, tweet, userId, id }: ITweet) {
   const user = auth.currentUser;
   const [isEditing, setEditing] = useState(false);
-  const [editedTweet, setEditedTweet] = useState("");
+  const [editedTweet, setEditedTweet] = useState(tweet);
 
   const onDelete = async () => {
     const ok = confirm("Are you sure you want to delete this tweet?");
